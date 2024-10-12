@@ -1,0 +1,19 @@
+{
+  "name": "store-p",
+  "version": "1.0.0",
+  "description": "Backend store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pcvm24531/store-p.git"
+  },
+  "author": "Pablo Vargas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcvm24531/store-p/issues"
+  },
+  "homepage": "https://github.com/pcvm24531/store-p#readme"
+}
